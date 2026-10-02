@@ -1,0 +1,127 @@
+.hero{
+    min-height: 100vh;
+    background:linear-gradient(180deg ,#8E2CFE , #1F91C0 , #72D6E5 ) ;
+   
+
+}
+.navbar{
+    color: white;
+    font-weight: 500;
+}
+.nav-link{
+    color: white;
+    font-weight: 500;
+
+}
+.floating-img{
+    width: 150px;
+    height: auto;
+}
+#div1{
+    position: relative;
+    left: 250px;
+    
+}
+
+#div2{
+    position: relative;
+    left: 350px;
+}
+
+.tools{
+    background: linear-gradient(180deg , white white);
+
+
+}
+.boss{
+    font-weight: 900;
+    font-size:xx-large;
+}
+.tool-card{
+    min-height: 420px;
+
+}
+.card-orange{
+    background: linear-gradient( 180deg, #d63a6a, #f2762e  );
+
+}
+.card-purple{
+    background: linear-gradient(180deg,#8b3dff, #b98bff
+);
+
+}
+.card-pink{
+    background: linear-gradient(180deg, #f6d6e6, #f3c9d8 );
+
+
+}
+.card-blue{
+    background: linear-gradient(180deg, #1e7be8, #2fb7f0 );
+
+
+}
+
+
+
+
+
+.card-grey{
+    background: linear-gradient(180deg, #DE6E14, #DE6E14 );
+}
+.card-yeast{
+    background: linear-gradient(180deg, #FFDAC4, #FFDAC4 );
+
+
+}
+.card-were{
+    background: linear-gradient(180deg, #EB2139, #FF8F9C ) ;
+
+
+}
+.card-omoh{
+    background: linear-gradient(180deg, #FFD6D8, #FFD6D8 );
+
+
+}
+.card-carol{
+    background: linear-gradient(180deg, #BE19FF, #FACCFF );
+
+
+}
+.card-obama{
+    background: linear-gradient(180deg, #F9DEFB, #F9DEFB );
+
+
+}
+
+.card-suite {
+  background: linear-gradient(180deg, #1f3fff, #0a8cf0);
+}
+
+.card-impact {
+  background: linear-gradient(180deg, #e8a28f, #f08a3c);
+}
+
+
+.tpl-row {
+  height: 300px;
+}
+
+.tpl-row img {
+  height: 100%;
+  width: auto;
+}
+
+.card-world {
+  background: linear-gradient(180deg, #1f3fff, #0a8cf0);
+}
+
+.card-pony {
+  background: linear-gradient(180deg, #7b2fd6, #b06be8);
+
+  .dembele {
+  min-height: 70vh;
+  background: linear-gradient(135deg, #0aa0ee, #1f3fff);
+}
+
+
